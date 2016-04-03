@@ -1,0 +1,16 @@
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Teleimot.Models.dll.config
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Teleimot.Models.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Teleimot.Models.pdb
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Teleimot.Common.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Teleimot.Common.pdb
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\obj\Debug\Teleimot.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\obj\Debug\Teleimot.Models.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Data\Teleimot.Data.Models\obj\Debug\Teleimot.Models.pdb

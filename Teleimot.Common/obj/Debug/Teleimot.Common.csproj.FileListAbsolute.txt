@@ -1,0 +1,5 @@
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Teleimot.Common\bin\Debug\Teleimot.Common.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Teleimot.Common\bin\Debug\Teleimot.Common.pdb
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Teleimot.Common\obj\Debug\Teleimot.Common.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Teleimot.Common\obj\Debug\Teleimot.Common.dll
+C:\Users\dimit\Desktop\2015-Real-Estates\Solution\Teleimot.Common\obj\Debug\Teleimot.Common.pdb
